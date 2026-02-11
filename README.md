@@ -2,8 +2,10 @@
 
 A comprehensive security analysis tool for GitHub repositories in the Solana ecosystem. Detects scams, abandoned projects, copy-pasted code, and security red flags through automated analysis of commit patterns, community engagement, and code metrics.
 
+[![CI](https://github.com/Momo111psy/solana-repo-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/Momo111psy/solana-repo-scanner/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Solana](https://img.shields.io/badge/Solana-Ecosystem-9945FF?logo=solana)](https://solana.com)
 
 ---
 
